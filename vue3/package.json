@@ -11,6 +11,7 @@
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
+    "kkiapay": "2.0.25",
     "vue": "^3.4.21"
   },
   "devDependencies": {
